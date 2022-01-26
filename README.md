@@ -1,5 +1,4 @@
 # project-4-Books-Management
-# project4group8
 # Radiumplus
 
 ## Project - Books Management
